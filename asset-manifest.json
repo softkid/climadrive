@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/climadrive/static/css/main.4c1f15d1.css",
-    "main.js": "/climadrive/static/js/main.60a2d12e.js",
+    "main.js": "/climadrive/static/js/main.1006ed7c.js",
     "static/js/453.7d7ded6c.chunk.js": "/climadrive/static/js/453.7d7ded6c.chunk.js",
     "static/media/background.png": "/climadrive/static/media/background.da9325e19a7b61c8e79c.png",
     "index.html": "/climadrive/index.html",
     "main.4c1f15d1.css.map": "/climadrive/static/css/main.4c1f15d1.css.map",
-    "main.60a2d12e.js.map": "/climadrive/static/js/main.60a2d12e.js.map",
+    "main.1006ed7c.js.map": "/climadrive/static/js/main.1006ed7c.js.map",
     "453.7d7ded6c.chunk.js.map": "/climadrive/static/js/453.7d7ded6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1f15d1.css",
-    "static/js/main.60a2d12e.js"
+    "static/js/main.1006ed7c.js"
   ]
 }
