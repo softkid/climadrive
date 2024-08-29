@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/climadrive/static/css/main.decb8dc2.css",
-    "main.js": "/climadrive/static/js/main.b2e4c8a9.js",
+    "main.css": "/climadrive/static/css/main.4c1f15d1.css",
+    "main.js": "/climadrive/static/js/main.f5ccc329.js",
     "static/js/453.7d7ded6c.chunk.js": "/climadrive/static/js/453.7d7ded6c.chunk.js",
     "static/media/background.png": "/climadrive/static/media/background.da9325e19a7b61c8e79c.png",
     "index.html": "/climadrive/index.html",
-    "main.decb8dc2.css.map": "/climadrive/static/css/main.decb8dc2.css.map",
-    "main.b2e4c8a9.js.map": "/climadrive/static/js/main.b2e4c8a9.js.map",
+    "main.4c1f15d1.css.map": "/climadrive/static/css/main.4c1f15d1.css.map",
+    "main.f5ccc329.js.map": "/climadrive/static/js/main.f5ccc329.js.map",
     "453.7d7ded6c.chunk.js.map": "/climadrive/static/js/453.7d7ded6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.decb8dc2.css",
-    "static/js/main.b2e4c8a9.js"
+    "static/css/main.4c1f15d1.css",
+    "static/js/main.f5ccc329.js"
   ]
 }
